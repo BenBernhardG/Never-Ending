@@ -8,7 +8,11 @@ version = "1.18.2-1.1"
 displayName = "NeverEnding"
 logoFile="pack.png"
 displayURL = "https://bernhardbmx.net"
-description = ''' '''
+authors=""
+credits=""
+description = '''
+
+'''
 
 [[dependencies.neverending]]
 modId = "forge"
