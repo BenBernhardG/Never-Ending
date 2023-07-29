@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "neverending:block/dead_log_top",
+    "side": "neverending:block/dead_log"
+  }
+}

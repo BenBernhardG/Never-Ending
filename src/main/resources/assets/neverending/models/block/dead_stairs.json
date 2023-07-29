@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "neverending:block/dead_planks",
+    "side": "neverending:block/dead_planks",
+    "top": "neverending:block/dead_planks"
+  }
+}

@@ -1,0 +1,89 @@
+{
+    "carvers": {
+        "air": [
+            "minecraft:cave"
+        ]
+    },
+    "downfall": 0.1,
+    "effects": {
+        "fog_color": 10869831,
+        "foliage_color": 1188608,
+        "grass_color": 1188608,
+        "sky_color": 4096,
+        "water_color": 2900781,
+        "water_fog_color": 0,
+        "grass_color_modifier": "swamp",
+        "particle": {
+            "options": {
+                "type": "minecraft:ash"
+            },
+            "probability": 0.6
+        },
+        "mood_sound": {
+            "sound": "minecraft:ambient.cave",
+            "tick_delay": 6000,
+            "block_search_extent": 100,
+            "offset": 5.0
+        }
+    },
+    "features": [
+        [], 
+        [
+            "neverending:lake_acid_surface",
+            "neverending:lake_acid_underground"
+        ], 
+        [
+            "minecraft:forest_rock"
+        ],
+        [
+            "minecraft:monster_room"
+        ],
+        [],
+        [],
+        [
+            "minecraft:ore_diamond_large",
+            "minecraft:disk_clay"
+        ],
+        [],
+        [
+            "minecraft:patch_dead_bush",
+            "minecraft:patch_dead_bush_2"
+        ],
+        [
+            "minecraft:freeze_top_layer"
+        ]
+    ],
+    "precipitation": "rain",
+    "spawn_costs": {},
+    "spawners": {
+        "monster": [],
+        "creature": [
+            {
+                "type": "minecraft:zombie_horse",
+                "weight": 1,
+                "maxCount": 5,
+                "minCount": 1
+            },
+            {
+                "type": "minecraft:zombie",
+                "weight": 1,
+                "maxCount": 20,
+                "minCount": 3
+            },
+            {
+                "type": "minecraft:skeleton",
+                "weight": 1,
+                "maxCount": 20,
+                "minCount": 3
+            }
+        ],
+        "ambient": [],
+        "water_creature": [],
+        "water_ambient": [],
+        "misc": []
+    },
+    "category": "swamp",
+    "temperature_modifier": "none",
+    "creature_spawn_probability": 0.0,
+    "temperature": 0.7
+}

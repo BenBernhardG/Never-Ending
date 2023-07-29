@@ -1,0 +1,64 @@
+{
+  "item.neverending.breathing_mask": "Breathing Mask",
+  "item.nerverending.fanny_pack": "Fanny pack",
+  "item.neverending.test_item": "Test Item",
+  "item.neverending.sulfur_dust": "Sulfur Dust",
+  "item.neverending.acid_bucket": "Acid Bucket",
+  "item.neverending.acid_bottle": "Acid Bottle",
+  "item.neverending.fanny_pack": "Fanny Pack",
+
+  "item.neverending.bad_gnome_spawn_egg": "Bad Gnome Spawn Egg",
+  "item.neverending.good_gnome_spawn_egg": "Good Gnome Spawn Egg",
+
+  "item.neverending.steel_ingot": "Steel Ingot",
+  "item.neverending.steel_nugget": "Steel Nugget",
+  "item.neverending.steel_helmet": "Steel Helmet",
+  "item.neverending.steel_chestplate": "Steel Chestplate",
+  "item.neverending.steel_leggings": "Steel Leggings",
+  "item.neverending.steel_boots": "Steel Boots",
+  "item.neverending.steel_sword": "Steel Sword",
+  "item.neverending.steel_axe": "Steel Axe",
+
+  "item.neverending.lucky_gold_ingot": "Lucky Gold Ingot",
+  "item.neverending.lucky_gold_nugget": "Lucky Gold Nugget",
+  "item.neverending.lucky_helmet": "Lucky Helmet",
+  "item.neverending.lucky_chestplate": "Lucky Chestplate",
+  "item.neverending.lucky_leggings": "Lucky Leggings",
+  "item.neverending.lucky_boots": "Lucky Boots",
+  "item.neverending.lucky_sword": "Lucky Sword",
+  "item.neverending.lucky_axe": "Lucky Axe",
+
+  "item.neverending.chain_leather_helmet": "Chain Leather Helmet",
+  "item.neverending.chain_leather_chestplate": "Chain Leather Chestplate",
+  "item.neverending.chain_leather_leggings": "Chain Leather Leggings",
+  "item.neverending.chain_leather_boots": "Chain Leather Boots",
+
+  "item.neverending.chestplate": "Dead Chestplate",
+  "item.neverending.leggings": "Dead Leggings",
+  "item.neverending.boots": "Dead Boots",
+
+
+
+  "block.neverending.sulfur_block": "Sulfur",
+  "block.neverending.dead_sapling": "Dead Sapling",
+  "block.neverending.acid_block": "Acid",
+
+  "block.neverending.dead_leaves": "Dead Leaves",
+  "block.neverending.dead_log": "Dead Log",
+  "block.neverending.dead_planks": "Dead Planks",
+  "block.neverending.dead_stairs": "Dead Stairs",
+  "block.neverending.acid": "Acid",
+  "block.neverending.steel_block": "Block of Steel",
+  "block.neverending.": "",
+  "block.neverending.": "",
+
+
+
+  "itemGroup.never-ending": "Never-Ending",
+  "itemGroup.never-ending_spawn_eggs": "Never-Ending Spawn Eggs",
+  "itemGroup.never-ending_illegal": "Never-Ending illegal",
+
+
+
+ "effects.neverending.cauterization": "Cauterization"
+}

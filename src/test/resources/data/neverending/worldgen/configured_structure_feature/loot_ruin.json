@@ -1,0 +1,22 @@
+{
+    "config": {
+        "start_pool": "neverending:loot_ruin",
+        "size": 7
+    },
+    "biomes": "#neverending:has_structure/loot_ruin",
+    "adapt_noise": true,
+    "spawn_overrides": {
+        "monster": {
+            "bounding_box": "full",
+            "spawns": [
+                {
+                    "type": "minecraft:phantom",
+                    "weight": 1,
+                    "minCount": 1,
+                    "maxCount": 3
+                }
+            ]
+        }
+    },
+    "type": "minecraft:village"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "neverending:dead_log"
+    }
+  ],
+  "result": {
+    "item": "neverending:dead_planks",
+    "count": 4
+  }
+}

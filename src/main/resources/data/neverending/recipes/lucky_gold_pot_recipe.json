@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "nnn",
+    "nnn",
+    "nnn"
+  ],
+  "key": {
+    "n": {
+      "item": "neverending:lucky_gold_ingot"
+    }
+  },
+  "result": {
+    "item": "neverending:lucky_gold_pot",
+    "count": 1
+  }
+}

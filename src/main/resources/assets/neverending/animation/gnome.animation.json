@@ -1,0 +1,101 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.gnome.hit": {
+			"animation_length": 0.66667,
+			"bones": {
+				"arm": {
+					"rotation": {
+						"0.0": {
+							"vector": [0.11, -0.86, 0.04]
+						},
+						"0.1667": {
+							"vector": [0, 0, 90]
+						},
+						"0.3333": {
+							"vector": [0.30792, -0.1931, 1.05964]
+						}
+					}
+				},
+				"arm2": {
+					"rotation": {
+						"0.3333": {
+							"vector": [0, 0, 0]
+						},
+						"0.5": {
+							"vector": [0, 0, 90]
+						},
+						"0.6667": {
+							"vector": [0, 0, 0]
+						}
+					}
+				}
+			}
+		},
+		"animation.gnome.walk": {
+			"animation_length": 0.5,
+			"bones": {
+				"leg": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.1667": {
+							"vector": [0, 0, 15]
+						},
+						"0.3333": {
+							"vector": [0, 0, 0]
+						}
+					}
+				},
+				"leg2": {
+					"rotation": {
+						"0.1667": {
+							"vector": [0, 0, 0]
+						},
+						"0.3333": {
+							"vector": [0, 0, 15]
+						},
+						"0.5": {
+							"vector": [0, 0, 0]
+						}
+					}
+				}
+			}
+		},
+		"animation.gnome.idle": {
+			"animation_length": 1,
+			"bones": {
+				"gnome": {
+					"scale": {
+						"0.0": {
+							"vector": [1, 1, 1]
+						},
+						"0.5": {
+							"vector": [1, 1.025, 1]
+						},
+						"1.0": {
+							"vector": [1, 1, 1]
+						}
+					}
+				}
+			}
+		},
+		"animation.gnome.hold_chest": {
+			"animation_length": 0.04167,
+			"bones": {
+				"arm": {
+					"rotation": {
+						"vector": [0, 0, 85]
+					}
+				},
+				"arm2": {
+					"rotation": {
+						"vector": [0, 0, 87.5]
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}

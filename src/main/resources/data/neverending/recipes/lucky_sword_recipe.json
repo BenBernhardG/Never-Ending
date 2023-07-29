@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " n ",
+    " n ",
+    " / "
+  ],
+  "key": {
+    "n": {
+      "item": "neverending:lucky_gold_ingot"
+    },
+    "/": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "neverending:lucky_sword",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "neverending:steel_block"
+        }
+    ],
+    "result": {
+        "item": "neverending:steel_ingot",
+        "count": 9
+    }
+}

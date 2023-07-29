@@ -1,0 +1,25 @@
+modLoader = "javafml"
+loaderVersion = "[40,)"
+license = "All Rights Reserved"
+
+[[mods]]
+modId = "neverending"
+version = "1.18.2-1.1"
+displayName = "NeverEnding"
+logoFile="pack.png"
+displayURL = "https://bernhardbmx.net"
+description = ''' '''
+
+[[dependencies.neverending]]
+modId = "forge"
+mandatory = true
+versionRange = "[40,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.neverending]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[1.18.2,1.19)"
+ordering = "NONE"
+side = "BOTH"

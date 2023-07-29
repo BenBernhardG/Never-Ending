@@ -1,0 +1,36 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "neverending:steel_ingot"
+        },
+        {
+            "item": "neverending:steel_ingot"
+        },
+        {
+            "item": "neverending:steel_ingot"
+        },
+        {
+            "item": "neverending:steel_ingot"
+        },
+        {
+            "item": "neverending:steel_ingot"
+        },
+        {
+            "item": "neverending:steel_ingot"
+        },
+        {
+            "item": "neverending:steel_ingot"
+        },
+        {
+            "item": "neverending:steel_ingot"
+        },
+        {
+            "item": "neverending:steel_ingot"
+        }
+    ],
+    "result": {
+        "item": "neverending:steel_block",
+        "count": 1
+    }
+}
