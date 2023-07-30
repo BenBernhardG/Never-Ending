@@ -23,6 +23,7 @@ public class ItemInit {
 
     public static final RegistryObject<BucketItem> ACID_BUCKET = ITEMS.register("acid_bucket", () -> new BucketItem(FluidInit.ACID_FLUID, new Item.Properties().stacksTo(1).tab(ModCreativeTab.NEVERENDING_TAB)));
     public static final RegistryObject<BottleItem> ACID_BOTTLE = ITEMS.register("acid_bottle", () -> new BottleItem(new Item.Properties().stacksTo(1).tab(ModCreativeTab.NEVERENDING_TAB)));
+    public static final RegistryObject<Item> ACID_METER = ITEMS.register("acid_meter", () -> new Item(new ComplexItem.Properties().tab(ModCreativeTab.NEVERENDING_TAB)));
 
 
     public static final RegistryObject<ArmorItem> BREATHING_MASK = ITEMS.register("breathing_mask", () -> new ArmorItem(ModArmorMaterials.DEAD_EQUIP_MASK, EquipmentSlot.HEAD, (new Item.Properties().setNoRepair().durability(120)).tab(ModCreativeTab.NEVERENDING_TAB)));
